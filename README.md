@@ -5,7 +5,7 @@
 I am a passionate software craftsman that loves to code and always experiments with new technologies, frameworks and all other kinds of interesting tools.
 
 - 💬 Ask me about:
-     - Observability platforms such as [New Relic](https://www.newrelic.com){:target="_blank"}
+     - Observability platforms such as [New Relic](https://www.newrelic.com){:target="_blank" rel="noopener"}
      - [Dapr](https://dapr.io/){:target="_blank"} (Distributed Application Runtime)
      - [Azure](https://azure.microsoft.com/en-us/){:target="_blank"}, [AWS](https://aws.amazon.com/){:target="_blank"} and [GCP](https://cloud.google.com/){:target="_blank"}
 - 📫 How to reach me:
