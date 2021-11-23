@@ -1,4 +1,4 @@
-![](background-fall.jpg)
+![Zugspitz region](background-fall-web.jpg)
 
 ### Hi there 👋, I'm Harry. I am a passionate software craftsman that loves to code and always experiments with new technologies, frameworks and all other kinds of interesting tools.
 
