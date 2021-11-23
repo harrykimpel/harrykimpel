@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Harry. I am a passionate software craftsmen that loves to code and always experiments with new technologies, frameworks and all other kinds of interesting tools.
+### Hi there 👋, I'm Harry. I am a passionate software craftsman that loves to code and always experiments with new technologies, frameworks and all other kinds of interesting tools.
 
 <!--
 **harrykimpel/harrykimpel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
