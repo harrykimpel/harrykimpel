@@ -5,7 +5,7 @@
 I am a passionate software craftsman that loves to code and always experiments with new technologies, frameworks and all other kinds of interesting tools.
 
 - 💬 Ask me about:
-     - Observability and platforms such as [New Relic](https://www.newrelic.com)
+     - Observability platforms such as [New Relic](https://www.newrelic.com)
      - [Dapr](https://dapr.io/) (Distributed Application Runtime)
 - 📫 How to reach me:
      - Twitter: [https://twitter.com/harrykimpel](https://twitter.com/harrykimpel)
