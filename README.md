@@ -8,7 +8,7 @@ I am a passionate software craftsman that loves to code and always experiments w
      - Observability platforms such as [New Relic](https://www.newrelic.com)
      - [Dapr](https://dapr.io/) (Distributed Application Runtime)
      - [Azure](https://azure.microsoft.com/en-us/), [AWS](https://aws.amazon.com/) and [GCP](https://cloud.google.com/)
-     - [Zugspitz Region](https://www.zugspitz-region.de/) (see picture above)
+     - [Zugspitz Region](https://www.zugspitz-region.de/) (see picture above) and [Greater Munich Metro region](https://www.metropolregion-muenchen.eu/)
 - 📫 How to reach me:
      - Twitter: [https://twitter.com/harrykimpel](https://twitter.com/harrykimpel)
      - Website: [https://www.kimpel.com](https://www.kimpel.com)
