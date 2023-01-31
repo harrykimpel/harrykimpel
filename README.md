@@ -1,4 +1,4 @@
-![Zugspitz region](background-fall-web.jpg)
+<img alt="Zugspitz region" src="background-fall-web.jpg" />
 
 ### Hi there 👋, I'm Harry.
 
