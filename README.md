@@ -12,7 +12,7 @@ I am a passionate software craftsman that loves to code and always experiments w
      - [Zugspitz Region](https://www.zugspitz-region.de/) (see picture above) and [Greater Munich Metro region](https://www.metropolregion-muenchen.eu/)
 - 📫 How to reach me:
      - Twitter: [https://twitter.com/harrykimpel](https://twitter.com/harrykimpel)
-     - Mastodon: <a rel="me" href="https://hachyderm.io/@harrykimpel">https://hachyderm.io/@harrykimpel</a>
+     - Mastodon: [https://hachyderm.io/@harrykimpel](https://hachyderm.io/@harrykimpel)
      - Website: https://www.kimpel.com
 
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harrykimpel&show_icons=true)
