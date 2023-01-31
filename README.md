@@ -15,4 +15,4 @@ I am a passionate software craftsman that loves to code and always experiments w
      - Mastodon: <a rel="me" href="https://hachyderm.io/@harrykimpel">https://hachyderm.io/@harrykimpel</a>
      - Website: [https://www.kimpel.com](https://www.kimpel.com)
 
-![Scotts's github stats](https://github-readme-stats.vercel.app/api?username=shanselman&show_icons=true)
+![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harrykimpel&show_icons=true)
