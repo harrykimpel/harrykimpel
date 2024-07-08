@@ -1,4 +1,4 @@
-![Zugspitz region](background-fall-web.jpg)
+![Zugspitz region](background-summer-web.jpg)
 
 ### Hi there 👋, I'm Harry.
 
