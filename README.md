@@ -19,3 +19,4 @@ I am a passionate software craftsman that loves to code and always experiments w
      - Website: https://www.kimpel.com
 
 ![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harrykimpel&show_icons=true)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=harrykimpel)](https://github.com/harrykimpel/github-readme-stats)
