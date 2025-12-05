@@ -17,5 +17,3 @@ I am a passionate software craftsman that loves to code and always experiments w
      - Twitter: [https://twitter.com/harrykimpel](https://twitter.com/harrykimpel)
      - LinkedIn: https://www.linkedin.com/in/harrykimpel/
      - Website: https://www.kimpel.com
-
-![Harry's github stats](https://github-readme-stats.vercel.app/api?username=harrykimpel&show_icons=true)
